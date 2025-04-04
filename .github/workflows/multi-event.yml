@@ -1,3 +1,5 @@
+name: Multi Push Type
+
 on:
   push:
     branches:
